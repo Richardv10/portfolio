@@ -30,6 +30,13 @@ h1, h2 {
 }
 
 #hero {
-    background-image: url("assets\images\background.webp"); 
+    background-color: lightgrey;
+    background-image: url("../images/background.webp");
+    min-height: 500px;
+    background-position: 50% 70%;
+    padding: 5% 7%;
+    background-size: cover;
+    
+
 }
 
