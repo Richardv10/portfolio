@@ -12,3 +12,24 @@ body {
     font-family: "Poppins", sans-serif;
     background-color: #a4c2d1;
 }
+h1, h2 {
+    font-family: "DM Serif Display", serif;
+    color: #184f63; 
+}
+/* about/contact section */
+
+#about {
+    background-color: white;
+}
+#portfolio {
+    background-color: #dbdcde;
+}
+
+#contact {
+    background-color: white;
+}
+
+#hero {
+    background-image: url("assets\images\background.webp"); 
+}
+
